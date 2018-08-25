@@ -5,5 +5,6 @@ ttyMAY_linux_board
  * Author: Gaurav Chaudhary
  * email : gauravsingh@circuitvalley.com
  * copy right : www.circuitvalley.com 
- * https://www.circuitvalley.com/2018/08/diy-open-source-lm399-voltage-reference-10v-dmm-calibrate.html
+ * http://www.circuitvalley.com/2015/11/homemade-arm-board-running-linux-with.html
+ * https://www.circuitvalley.com/2015/12/homemade-board-linux-LCD-uboot-porting-corsscompile.html
  */
